@@ -1,0 +1,19 @@
+body {
+   background: orange;
+   font-family: arial;
+
+}
+
+h1, h2 {
+   color: navy;
+}
+
+#titol_principal {
+  font-size: 2em;
+  color: black;
+  font-family: Franklin Gothic Bold;
+}
+
+#tesla {
+  width: 100px;
+}
