@@ -1,20 +1,19 @@
-body {
-   background: orange;
-   font-family: arial;
+   body {
+      background: orange;
+      font-family: arial;
 
-}
+   }
 
-h1, h2 {
-   color: navy;
-}
+   h1, h2 {
+      color: navy;
+   }
 
-#titol_principal {
-  font-size: 2em;
-  color: black;
-  font-family: Franklin Gothic Bold;
-}
+   #titol_principal {
+     font-size: 2em;
+     color: black;
+     font-family: Franklin Gothic Bold;
+   }
 
-#tesla {
-  width: 200px;
-  align: center;
-}
+   #tesla {
+     width: 200px;
+   }
